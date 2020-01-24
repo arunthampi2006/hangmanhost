@@ -1,1 +1,3 @@
-# hangmanhost
+# hangmanhost for hangman game
+
+@arunkumar.thampi
